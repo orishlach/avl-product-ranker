@@ -1,4 +1,3 @@
-![avl-product-ranker](logo.png)
 
 <div align="center">
   <h1>Avl Product Ranker</h1>
