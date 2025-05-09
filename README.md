@@ -17,12 +17,7 @@
     <span> · </span>
     <a href="#primary-components" target="_blank">Primary Components</a>
   </h4>
-  <p>
-    <small align="justify">
-      Built with 🤍 by 
-      <a href="https://github.com/orishlach">Or Ishlach</a> 
-    </small>
-  </p>
+
 </div><br/>
  
 
